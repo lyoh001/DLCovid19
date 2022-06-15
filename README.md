@@ -31,9 +31,10 @@ URL http://dx.doi.org/10.21227/s7pw-jr18
 
 
 ## 3 Covid19 Classification using Convolutional Neural Networks
+- [Notebook using Mobilenet_v2](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_mobilenet_v2.ipynb)
+
 - [Notebook using CNN](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_cnn.ipynb)
 
-- [Notebook using Mobilenet_v2](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_mobilenet_v2.ipynb)
 
 
 ## 4 Mobilenet_v2 Reference
