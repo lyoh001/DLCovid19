@@ -10,11 +10,22 @@ In late January, a Chinese team published a paper detailing the clinical and par
 COVID is possibly better diagnosed using radiological imaging Fang, 2020 and Ai 2020.
 
 ## 2 Content
-### 2.1	References
+### 2.1	Dataset
 The dataset consists of a posteroanterior (PA) view of chest X-ray images comprising Normal, Viral, and CVOID-19 affected patients. There are total 1823 CXR images.
 
-## 3 Citation
-### 1.1	Acknowledgements
+
+## 3 Covid19 Classification using Convolutional Neural Networks
+- [Notebook using Mobilenet_v2](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_mobilenet_v2.ipynb)
+
+- [Notebook using CNN](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_cnn.ipynb)
+
+
+## 4 Mobilenet_v2 Reference
+https://tfhub.dev/google/tf2-preview/mobilenet_v2/classification/4
+
+
+## 5 Citation
+### 5.1	Acknowledgements
 - Joseph Paul Cohen and Paul Morrison and Lan Dao. COVID-19 image data collection, arXiv, 2020. https://github.com/ieee8023/covid-chestxray-dataset
 
 - https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/
@@ -28,14 +39,3 @@ http://dx. doi. org/10.17632/rscbjbr9sj 3 (2018).
 high resolution ct (2020). doi:10.21227/4kcm-m312.URL http://dx.doi.org/10.21227/4kcm-m312
 -  D. S. et.al, Covid19action-radiology-cxr (2020). doi:10.21227/s7pw-jr18.
 URL http://dx.doi.org/10.21227/s7pw-jr18
-
-
-## 3 Covid19 Classification using Convolutional Neural Networks
-- [Notebook using Mobilenet_v2](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_mobilenet_v2.ipynb)
-
-- [Notebook using CNN](https://github.com/lyoh001/DLCovid19/blob/main/notebook/notebook_cnn.ipynb)
-
-
-
-## 4 Mobilenet_v2 Reference
-https://tfhub.dev/google/tf2-preview/mobilenet_v2/classification/4
